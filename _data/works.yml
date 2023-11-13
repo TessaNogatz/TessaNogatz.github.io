@@ -1,0 +1,63 @@
+- year: 2023
+  month: Oct
+  title: Presentation in Antwerp
+  subtitle: Invited Talk
+  type: talk
+  link: work-single.html
+  link_title: Slides
+- year: 2023
+  month: Oct
+  title: "MorphFlow: Estimating Motion in In Situ Tests of Concrete"
+  subtitle: Paper
+  type: paper
+  image: assets/images/202310-morphflow-paper-cover.png
+  teaser: >
+    Tessa Nogatz, Claudia Redenbach, Katja Schladitz (arXiv:2310.11109)
+  link: https://arxiv.org/abs/2310.11109
+  link_title: Paper on arXiv
+- year: 2023
+  month: Feb
+  title: Session Chair at iCT 2023
+  subtitle: Community Service
+  type: community-service
+  image: assets/images/202302-ict-booklet.png
+  teaser: >
+    In February 2023, I served as a session chair at the <em>12th International Conference on Industrial Computed Tomography</em> in Fürth, Germany.
+  link: https://www.iis.fraunhofer.de/en/muv/2023/ict-conference.html
+  link_title: Conference Website
+- year: 2022
+  month: Dec
+  title: Estimation of Motion Vector Fields of Complex Microstructures by Time Series of Volume Images
+  subtitle: PhD Thesis
+  type: thesis
+  image: assets/images/202212-phd-thesis-cover.png
+  teaser: >
+    Supervised by Prof. Dr. Claudia Redenbach (Technische Universität Kaiserslautern Kaiserslautern) and
+    Dr. Katja Schladitz (Fraunhofer ITWM Kaiserslautern)
+  link: https://kluedo.ub.rptu.de/frontdoor/index/index/docId/7185
+  link_title: Download Dissertation
+- year: 2022
+  month: Feb
+  title: 3D optical flow for large CT data of materials microstructures
+  subtitle: Journal Paper
+  type: paper
+  image: assets/images/202202-strain-paper-cover.png
+  teaser: >
+    Tessa Nogatz, Claudia Redenbach, Katja Schladitz (<em>Strain 58.3</em>)
+  link: https://doi.org/10.1111/str.12412
+  link_title: DOI 10.1111/str.12412
+- year: 2018
+  month: Oct
+  title: Reconstruction of the lung during free breathing in Magnetic Resonance Imaging
+  subtitle: Master's Thesis
+  type: thesis
+  image: assets/images/201810-master-thesis-cover.png
+  teaser: >
+    Supervised by Prof. Dr. Bernadette Hahn-Rigaud at Universität Würzburg
+- year: 2015
+  month: Oct
+  title: Backward error analysis and long-term energy conservation of symplectic integrators
+  subtitle: Bachelor's Thesis
+  type: thesis
+  teaser: >
+    Supervised by Prof. Dr. Yuri B. Suris at Technische Universität Berlin
