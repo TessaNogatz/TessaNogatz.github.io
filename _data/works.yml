@@ -3,7 +3,9 @@
   title: Presentation in Antwerp
   subtitle: Invited Talk
   type: talk
-  link: work-single.html
+  image: assets/images/202310-antwerp-slide.png
+  teaser: Talk about <em>Estimation of Motion Vector Fields of Complex Microstructures by Time Series of Volume Images</em>
+  link: https://tessa.nogatz.net/talks/202310-antwerp/
   link_title: Slides
 - year: 2023
   month: Oct
