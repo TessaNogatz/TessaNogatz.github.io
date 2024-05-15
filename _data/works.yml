@@ -1,3 +1,12 @@
+- year: 2024
+  month: May
+  title: Presentation at Empa
+  subtitle: Invited Talk
+  type: talk
+  image: assets/images/202405-empa-slide.png
+  teaser: Talk about <em>Estimation of Motion Vector Fields of Complex Microstructures by Time Series of Volume Images</em>
+  link: https://tessa.nogatz.net/talks/202405-empa/
+  link_title: Slides
 - year: 2023
   month: Oct
   title: Presentation in Antwerp
